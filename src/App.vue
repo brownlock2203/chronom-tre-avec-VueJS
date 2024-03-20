@@ -14,7 +14,7 @@
         <button id="resetBtn">réinitialiser</button>
       </div>
       <div class="w-[100%]">
-        <h2 class="text-[1.5rem]">Chono par tour</h2>
+        <h2 class="text-[1rem]">Chono par tour</h2>
         <ul id="laplist"></ul>
       </div>
     </div>
